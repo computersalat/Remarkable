@@ -29,6 +29,7 @@ gi.require_version('WebKit2', '4.0')
 from bs4 import BeautifulSoup
 from gi.repository import Gdk, Gtk, GtkSource, Pango, WebKit2
 from locale import gettext as _
+from remarkable import styles
 from urllib.request import urlopen
 import markdown
 import os
@@ -36,7 +37,6 @@ import pdfkit
 import re, subprocess, datetime, os, webbrowser, _thread, sys, locale
 import tempfile
 import traceback
-import styles
 import unicodedata
 import warnings
 from findBar import FindBar
