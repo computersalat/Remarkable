@@ -11,8 +11,8 @@
     <property name="icon">remarkable.png</property>
     <property name="type_hint">dialog</property>
     <property name="program_name">Remarkable</property>
-    <property name="version">1.9</property>
-    <property name="copyright" translatable="yes">Copyright (C) 2020 Jamie McGowan 
+    <property name="version">1.90</property>
+    <property name="copyright" translatable="yes">Copyright (C) 2020 Jamie McGowan
 
 &lt;jamiemcgowan.dev@gmail.com&gt;</property>
     <property name="website">http://remarkableapp.github.io</property>

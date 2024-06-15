@@ -58,7 +58,7 @@ warnings.filterwarnings("ignore", ".*has no handler with id.*")
 from remarkable_lib import Window, remarkableconfig
 from remarkable.AboutRemarkableDialog import AboutRemarkableDialog
 
-app_version = 1.9 # Remarkable app version
+app_version = 1.90 # Remarkable app version
 
 class RemarkableWindow(Window):
     __gtype_name__ = "RemarkableWindow"

@@ -32,7 +32,7 @@ __all__ = [
 #(for instance, images and ui files).
 __remarkable_data_directories__ = ['../data', '/usr/share/remarkable']
 __license__ = 'MIT'
-__version__ = '1.9'
+__version__ = '1.90'
 
 import os
 
